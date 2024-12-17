@@ -30,9 +30,11 @@
    ```bash
    daytona create https://github.com/Samundra-Subedi/Progify-Daytona.git
    ```
-3. **Create your own .env file under the server directory**:
+3. **Create your own .env file under the backend directory**:
+   ```bash
    GOOGLE_API_KEY=<YOUR_GEMINI_API_KEY>
-4. **Start the Application**:
+   ```
+5. **Start the Application**:
   Go to backend Folder
    ```bash
    npm start
