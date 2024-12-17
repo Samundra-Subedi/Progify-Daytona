@@ -7,7 +7,7 @@
   
 </p>
 
-# Progify
+# Sample <Javascript /Nodejs, React>
 
 **Progrify** is an AI-powered online code editor designed to revolutionize how people learn and write code. With seamless integration of CopilotKit, Progrify acts as your personal programming tutor, guiding you through coding challenges, helping you debug, and optimizing your learning experience. Whether you're a beginner trying to grasp programming concepts or a seasoned developer looking to write more efficient code, Progrify makes coding interactive, intuitive, and effective.
 
@@ -30,7 +30,9 @@
    ```bash
    daytona create https://github.com/Samundra-Subedi/Progify-Daytona.git
    ```
-3. **Start the Application**:
+3. **Create your own .env file under the server directory**:
+   GOOGLE_API_KEY=<YOUR_GEMINI_API_KEY>
+4. **Start the Application**:
   Go to backend Folder
    ```bash
    npm start
@@ -64,7 +66,7 @@ Check out the [live demo here](https://vimeo.com/1016505368?share=copy) to explo
 - CopilotKit (for AI-powered code suggestions)
 - Tailwind CSS (for styling)
 - Express.js (for backend API)
-- MongoDB (for data persistence)
+- Daytona
 
 
 ## License
