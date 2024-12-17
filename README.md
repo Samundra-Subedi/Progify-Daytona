@@ -7,7 +7,7 @@
   
 </p>
 
-# Sample Javascript with React and NodeJs
+# Progify
 
 **Progrify** is an AI-powered online code editor designed to revolutionize how people learn and write code. With seamless integration of CopilotKit, Progrify acts as your personal programming tutor, guiding you through coding challenges, helping you debug, and optimizing your learning experience. Whether you're a beginner trying to grasp programming concepts or a seasoned developer looking to write more efficient code, Progrify makes coding interactive, intuitive, and effective.
 
