@@ -28,7 +28,7 @@
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).
 2. **Create the Workspace**:
    ```bash
-   daytona create https://github.com/Samundra-Subedi/Progify-Daytona.git
+   daytona create https://github.com/Samundra-Subedi/Progify-Daytona
    ```
 3. **Create your own .env file under the backend directory**:
    ```bash
